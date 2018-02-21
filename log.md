@@ -9,22 +9,13 @@
 
 **Link to work:** [Calculator App](http://www.example.com)
 
-### Day 0: February 30, 2016 (Example 2)
+### Day 0: February 20, 2018
 ##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Sign up for #100daysofcode, put together a curriculum and game plan, let Fullstack Academy know I wasn't prepared, yet, to apply. Posted my committment on Twitter and wrote a blog post on Medium.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: Have not felt motivated since Monday. Too much on my brain, too many open loops. Need to bullet journal and figure out my work and coding priorities. 
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: [New Blog Post:100 Days to Learning JavaScript](https://medium.com/@arielle_hale/100-days-to-learning-javascript-2834ac94f12a)
 
 
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
