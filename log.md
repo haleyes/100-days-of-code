@@ -7,6 +7,6 @@
 
 **Thoughts**: Have not felt motivated since Monday. Too much on my brain, too many open loops. Need to bullet journal and figure out my work and coding priorities. Not sure if I made this repo correctly, hope I didn't fuck anything up LOL.
 
-**Link(s) to work**: [New Blog Post:100 Days to Learning JavaScript] (https://medium.com/@arielle_hale/100-days-to-learning-javascript-2834ac94f12a)
+**Link(s) to work**: [New Blog Post: 100 Days to Learning JavaScript](https://medium.com/@arielle_hale/100-days-to-learning-javascript-2834ac94f12a)
 
 
