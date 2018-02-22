@@ -7,4 +7,16 @@
 
 **Link(s) to work**: [New Blog Post: 100 Days to Learning JavaScript](https://medium.com/@arielle_hale/100-days-to-learning-javascript-2834ac94f12a)
 
+### Day 1: February 21, 2018
+**Today's Progress**: Was only about to get in 25 minutes, worked on Team Treehouse Intro to JavaScript. 
 
+**Thoughts**: Wanted to get more done but proud I was able to do something. 
+
+**Link(s) to work**: [Team Treehouse Profile](https://teamtreehouse.com/ariellehale)
+
+### Day 2: February 22, 2018
+**Today's Progress**: Logged into Team Treehouse but didn't get any coding done. 
+
+**Thoughts**: Must get some coding in tomorrow and over the weekend.
+
+**Link(s) to work**: N/A
