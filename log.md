@@ -1,4 +1,4 @@
-# 100 Days Of Code - Log + Journal
+# 100 Days Of Code - Log + Journal: Round 1
 
 ### Day 0: February 20, 2018
 **Today's Progress**: Sign up for #100daysofcode, put together a curriculum and game plan, let Fullstack Academy know I wasn't prepared, yet, to apply. Posted my committment on Twitter and wrote a blog post on Medium.
